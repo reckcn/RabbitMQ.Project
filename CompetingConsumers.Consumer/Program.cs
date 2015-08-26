@@ -6,6 +6,9 @@ using RabbitMQ.Client.MessagePatterns;
 
 namespace CompetingConsumers.Consumer
 {
+    /// <summary>
+    /// 
+    /// </summary>
 	class Program
 	{
 		static void Main()
